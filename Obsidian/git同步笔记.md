@@ -6,7 +6,7 @@
 - `git init`初始化仓库
 - 修改`.gitignore`文件，添加`.obsidian`、`/00 Attachment(附件保存目录)`
 	- `.obsidian`是保存一些设置等数据，不要同步；
-	- `/00 Attachment`是附件保存目录，该文件夹保存大量图片、pdf等附件，一方面影响同步速度，一方面GitHub容量有限制；
+	- `/00 Attachment`是附件保存目录（这里涉及设置-文件与链接-附件默认保存位置的修改），该文件夹保存大量图片、pdf等附件，一方面影响同步速度，一方面GitHub容量有限制；
 - `git banch -M main`创建本地main分支
 - `git add .`暂存
 - `git commit -m "初始化提交"`本地commit
