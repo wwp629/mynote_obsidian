@@ -1,3 +1,11 @@
+---
+tags:
+  - Dev/Git
+  - Dev/GitHub
+aliases:
+  - git分支管理
+  - git最佳实践
+---
 ### **一、命名规范区分原则**
 
 1. **需求分支（Feature）**
